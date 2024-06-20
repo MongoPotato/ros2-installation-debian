@@ -1,0 +1,7 @@
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7.dir
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/edit_cache.dir
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/rebuild_cache.dir
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/list_install_components.dir
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/install.dir
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/install/local.dir
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/install/strip.dir

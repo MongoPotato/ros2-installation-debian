@@ -1,0 +1,60 @@
+Determining if the __stdio_common_vfprintf exist failed with the following output:
+Change Dir: /home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_dceb4/fast && gmake[3]: Entering directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu'
+/usr/bin/gmake  -f CMakeFiles/cmTC_dceb4.dir/build.make CMakeFiles/cmTC_dceb4.dir/build
+gmake[4]: Entering directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu'
+Building C object CMakeFiles/cmTC_dceb4.dir/CheckSymbolExists.c.o
+/usr/bin/arm-linux-gnueabihf-gcc -D_GNU_SOURCE  -std=c99 -Wall -Wextra -Wno-unused-parameter  -o CMakeFiles/cmTC_dceb4.dir/CheckSymbolExists.c.o -c /home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu/CheckSymbolExists.c
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu/CheckSymbolExists.c: In function ‘main’:
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu/CheckSymbolExists.c:8:19: error: ‘__stdio_common_vfprintf’ undeclared (first use in this function)
+    8 |   return ((int*)(&__stdio_common_vfprintf))[argc];
+      |                   ^~~~~~~~~~~~~~~~~~~~~~~
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu/CheckSymbolExists.c:4:14: warning: parameter ‘argc’ set but not used [-Wunused-but-set-parameter]
+    4 | int main(int argc, char** argv)
+      |          ~~~~^~~~
+gmake[4]: *** [CMakeFiles/cmTC_dceb4.dir/build.make:78: CMakeFiles/cmTC_dceb4.dir/CheckSymbolExists.c.o] Error 1
+gmake[4]: Leaving directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu'
+gmake[3]: *** [Makefile:127: cmTC_dceb4/fast] Error 2
+gmake[3]: Leaving directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-GSHcEu'
+
+
+File CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __stdio_common_vfprintf
+  return ((int*)(&__stdio_common_vfprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE_ELF_AUXINFO failed with the following output:
+Change Dir: /home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-T4BHS9
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2b0f3/fast && gmake[3]: Entering directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-T4BHS9'
+/usr/bin/gmake  -f CMakeFiles/cmTC_2b0f3.dir/build.make CMakeFiles/cmTC_2b0f3.dir/build
+gmake[4]: Entering directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-T4BHS9'
+Building C object CMakeFiles/cmTC_2b0f3.dir/src.c.o
+/usr/bin/arm-linux-gnueabihf-gcc -DHAVE_ELF_AUXINFO -D_GNU_SOURCE  -std=c99 -Wall -Wextra -Wno-unused-parameter  -o CMakeFiles/cmTC_2b0f3.dir/src.c.o -c /home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-T4BHS9/src.c
+/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-T4BHS9/src.c:3:13: error: unknown type name ‘Elf32_Auxinfo’
+    3 |     typedef Elf32_Auxinfo checked_type;
+      |             ^~~~~~~~~~~~~
+gmake[4]: *** [CMakeFiles/cmTC_2b0f3.dir/build.make:78: CMakeFiles/cmTC_2b0f3.dir/src.c.o] Error 1
+gmake[4]: Leaving directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-T4BHS9'
+gmake[3]: *** [Makefile:127: cmTC_2b0f3/fast] Error 2
+gmake[3]: Leaving directory '/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build/CMakeFiles/CMakeScratch/TryCompile-T4BHS9'
+
+
+Source file was:
+
+    #include <elf.h>
+    typedef Elf32_Auxinfo checked_type;
+    int main(void) { return 0; }
+  
+

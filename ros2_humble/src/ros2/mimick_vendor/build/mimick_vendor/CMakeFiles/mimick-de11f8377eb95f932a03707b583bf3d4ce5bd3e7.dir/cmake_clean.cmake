@@ -1,0 +1,16 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7"
+  "CMakeFiles/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-complete"
+  "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build"
+  "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-configure"
+  "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-download"
+  "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-install"
+  "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-mkdir"
+  "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-patch"
+  "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-update"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

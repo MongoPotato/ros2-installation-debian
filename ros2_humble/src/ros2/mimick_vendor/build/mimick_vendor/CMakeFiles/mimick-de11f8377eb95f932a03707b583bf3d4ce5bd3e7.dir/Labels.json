@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/CMakeFiles/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-complete.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-build.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-configure.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-download.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-install.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-mkdir.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-patch.rule"
+		},
+		{
+			"file" : "/home/pitemp/ros2_humble/src/ros2/mimick_vendor/build/mimick_vendor/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-prefix/src/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-stamp/mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7"
+		],
+		"name" : "mimick-de11f8377eb95f932a03707b583bf3d4ce5bd3e7"
+	}
+}
